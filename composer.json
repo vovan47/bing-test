@@ -1,0 +1,15 @@
+{
+    "name": "vladimir/bing-test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {"BingTest\\": "src/"}
+    },
+    "require": {
+        "php": ">=7.0",
+        "ext-curl": "*",
+        "ext-openssl": "*",
+        "ext-soap": "*",
+        "microsoft/bingads": "v0.12.0.1"
+    },
+    "license": "WTFPL"
+}

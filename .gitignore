@@ -1,0 +1,5 @@
+src/parameters.php
+composer.phar
+/vendor/
+composer.lock
+.idea/*
