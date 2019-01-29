@@ -1,9 +1,9 @@
 <?php
 
-define("DEVELOPER_TOKEN", 'your developer token');
-define("CLIENT_SECRET", 'your client secret');
-define("CLIENT_ID", 'your client id');
-define("CUSTOMER_ID", 'your customer id');
-define("ACCOUNT_ID", 'your account id');
-define("REFRESH_TOKEN", 'your refresh token');
-define("REDIRECT_URI", 'your redirect uri');
+define("DEVELOPER_TOKEN", "your_developer_token");
+define("CLIENT_SECRET", "your_client_secret");
+define("CLIENT_ID", "your_client_id");
+define("CUSTOMER_ID", "your_customer_id");
+define("ACCOUNT_ID", "your_account_id");
+define("REFRESH_TOKEN", "your_refresh_token");
+define("REDIRECT_URI", "your_redirect_uri");
